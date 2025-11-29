@@ -1,1 +1,1 @@
-Create two folder inside job portal named it frontend and services then inside service create two another folder named it auth and user inside auth run this commend npm init -y -> npm i -g typescript ->npx tsc --init then make some changes in tsconfig
+Create two folder inside job portal named it frontend and services then inside service create two another folder named it auth and user inside auth run this commend npm init -y -> npm i -g typescript ->npx tsc --init then make some changes in tsconfig->npm i express dotenv bcrypt jsonwebtoken
